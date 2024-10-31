@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\_WebDev\Plugins\CoreTweaks\trunk\trunk.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/_WebDev/Plugins/CoreTweaks/trunk]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/_WebDev/Plugins/CoreTweaks/trunk]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.3">
+  <errfile name="C:\_WebDev\Plugins\CoreTweaks\trunk\our-profiles\admin.php">
+   <error val="150;51;166;51;2002;1;"/>
+  </errfile>
+  <errfile name="C:\_WebDev\Plugins\CoreTweaks\trunk\seoauto-sidebar.php">
+   <error val="359;8;384;8;2002;1;"/>
+  </errfile>
+ </errors>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock>
+  <todofile name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\BrazilianPortuguese.php">
+   <todo name="todo de navegacao 1" pos="3;20"/>
+   <todo name="todo de navegacao 2" pos="3;30"/>
+  </todofile>
+  <todofile name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Italian.php">
+   <todo name="todo di navigazione 1" pos="3;20"/>
+   <todo name="todo di navigazione 2" pos="3;30"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\our-profiles\widget.php" crc="1385572946492"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\our-profiles\thisplugin.php" crc="1385572946513"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\our-profiles\shortcode.php" crc="1385572946518"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\our-profiles\seoauto-sidebar.php" crc="1556038938012"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\our-profiles\our-profiles.php" crc="1426087911980"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\our-profiles\admin.php" crc="1556039753898"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Ukrainian.php" crc="1385572944828"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Turkish.php" crc="1385572944839"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Swedish.php" crc="1385572944809"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Spanish.php" crc="1385572944804"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Slovene.php" crc="1385572944819"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\SimplifiedChinese.php" crc="1385572944832"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\SerbianLatin.php" crc="1385572944816"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Serbian.php" crc="1385572944830"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Russian.php" crc="1385572944835"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Romanian.php" crc="1385572944795"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Polish.php" crc="1385572944851"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Norwegian.php" crc="1385572944842"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Lithuanian.php" crc="1385572944849"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Japanese.php" crc="1385572944837"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Italian.php" crc="1385572944823"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\German.php" crc="1385572944814"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\French.php" crc="1385572944802"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Finnish.php" crc="1385572944855"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Estonian.php" crc="1385572944821"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\English.php" crc="1385572944844"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Dutch.php" crc="1385572944812"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Danish.php" crc="1385572944807"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Czech.php" crc="1385572944846"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Catalan.php" crc="1385572944793"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Bulgarian.php" crc="1385572944798"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\BrazilianPortuguese.php" crc="1385572944853"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Arabic.php" crc="1385572944826"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\lang\Albanian.php" crc="1385572944800"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\user-comments.php" crc="1385572948012"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\thisplugin.php" crc="1539272247225"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\tagline.php" crc="1385572944784"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\sitemap-page.php" crc="1385572944448"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\sitemap-generator.php" crc="1385572944405"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\settings.php" crc="1556129631346"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\seoauto-sidebar.php" crc="1539272388865"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\sc-core-tweak.php" crc="1556129742998"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\rss-extend.php" crc="1385572944418"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\robots.php" crc="1442593889446"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\remote-publishing.php" crc="1399991165274"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\readme.txt" crc="1556129732517"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\privacy-policy.php" crc="1402933752559"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\post-teaser.php" crc="1399987932624"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\post-teaser.css" crc="1399987932291"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\post-teaser-onoff.php" crc="1399987931877"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\plugins-on-off.php" crc="1504028875445"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\permalinks.php" crc="1399997273183"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\page-order.php" crc="1399987931432"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\page-link.php" crc="1399987930956"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\org-uploads.php" crc="1385572944416"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\newtablink.php" crc="1499886579143"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\metaversion.php" crc="1402932264834"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\meta_tags.php" crc="1385572948019"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\img-crop.php" crc="1459788348985"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\home.php" crc="1539269483163"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\google-tools.php" crc="1484675970281"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\google-tools-internaltabs.php" crc="1484674013800"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\google-profile-field.php" crc="1385572944879"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\google-profile-code.htm" crc="1385572944786"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\feed-display.php" crc="1385572948029"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\export-import.php" crc="1385572944412"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\error-report.php" crc="1385572944428"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\emails.php" crc="1399991083372"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\edit-page-info.php" crc="1399998047537"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\d-post.php" crc="1399997775165"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\d-comment.php" crc="1385572944396"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\contact.php" crc="1399997356305"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\changelog.txt" crc="1385572944451"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\change-header.php" crc="1385572944391"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\cat-names.php" crc="1385572944441"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\blogroll.php" crc="1399308028326"/>
+  <file name="C:\_WebDev\Plugins\CoreTweaks\trunk\add-footer.php" crc="1385572944398"/>
+ </filescache>
+</project>
